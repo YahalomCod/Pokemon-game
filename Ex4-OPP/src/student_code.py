@@ -4,9 +4,8 @@ from random import randint
 from types import SimpleNamespace
 from client import Client
 
-# init pygame
 from GraphAlgo import *
-from src.Pokemon import Pokemon
+from Pokemon import Pokemon
 
 WIDTH, HEIGHT = 1080, 720
 

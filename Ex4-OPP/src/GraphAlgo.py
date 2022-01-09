@@ -6,7 +6,7 @@ from typing import List
 import json
 
 from DiGraph import *
-from src.GraphAlgoInterface import GraphAlgoInterface
+from GraphAlgoInterface import GraphAlgoInterface
 from queue import PriorityQueue
 import pygame
 from pygame import Color, display, gfxdraw
