@@ -1,4 +1,4 @@
-# Ex4-OPP
+# Pokemon game as TSP problem
 
 * Created by Yahalom Chasid and Guy Azoulay.
 
